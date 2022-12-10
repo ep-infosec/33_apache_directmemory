@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<!--
+   Licensed to the Apache Software Foundation (ASF) under one or more
+   contributor license agreements.  See the NOTICE file distributed with
+   this work for additional information regarding copyright ownership.
+   The ASF licenses this file to You under the Apache License, Version 2.0
+   (the "License"); you may not use this file except in compliance with
+   the License.  You may obtain a copy of the License at
+
+       http://www.apache.org/licenses/LICENSE-2.0
+
+   Unless required by applicable law or agreed to in writing, software
+   distributed under the License is distributed on an "AS IS" BASIS,
+   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+   See the License for the specific language governing permissions and
+   limitations under the License.
+-->
+<document xmlns="http://maven.apache.org/XDOC/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://maven.apache.org/XDOC/2.0 http://maven.apache.org/xsd/xdoc-2.0.xsd">
+
+  <properties>
+    <title>Apache DirectMemory Home</title>
+    <author email="dev@directmemory.apache.org">Apache DirectMemory Documentation Team</author>
+  </properties>
+
+  <body>
+    <div class="hero-unit">
+      <img src="images/Apache-DirectMemory-logo-medium.png" style="margin-bottom:15px"/>
+
+      <br clear="left"/>
+
+      <p>
+        <span style="font-weight: bold">Apache DirectMemory</span> is a off-heap cache for the Java Virtual Machine.
+      </p>
+      <p>
+        <span style="font-weight: bold">Last release ${currentRelease} - ${currentReleaseDate}. See <a href="releases/release-notes-${currentRelease}.html">release notes</a>.</span>
+      </p>
+    </div>
+
+  </body>
+</document>

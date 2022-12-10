@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--
+  Licensed to the Apache Software Foundation (ASF) under one or more
+  contributor license agreements.  See the NOTICE file distributed with
+  this work for additional information regarding copyright ownership.
+  The ASF licenses this file to You under the Apache License, Version 2.0
+  (the "License"); you may not use this file except in compliance with
+  the License.  You may obtain a copy of the License at
+
+      http://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
+-->
+<project name="Apache DirectMemory">
+
+
+
+  <body>
+
+    <menu name="Apache DirectMemory">
+      <item name="About"                      href="index.html"/>
+      <item name="Simple Usage"               href="simple-usage.html"/>
+      <item name="Server"                     href="server.html"/>
+      <item name="Server Instance"            href="server-instance.html"/>
+      <item name="Javascript Caching"         href="javascript-caching.html"/>
+      <item name="EHCache integration"        href="ehcache-integration.html"/>
+      <item name="Download Release sources"   href="downloads.html"/>
+      <item name="License"                    href="license.html"/>
+      <item name="Last Release"               href="releases/release-notes-${currentRelease}.html"/>
+      <item name="Releases" href="">
+        <item name="0.2 Release Notes"            href="releases/release-notes-0.2.html"/>
+        <item name="0.1-incubating Release Notes" href="releases/release-notes-0.1-incubating.html"/>
+      </item>
+      <item name="Apache Lightning"           href="http://directmemory.apache.org/lightning"/>
+    </menu>
+
+    <menu name="Get Involved">
+      <item name="Mailing Lists" href="mail-lists.html"/>
+      <item name="Issues" href="issue-tracking.html"/>
+      <item name="Team" href="team-list.html"/>
+      <item name="Sources" href="source-repository.html"/>
+      <item name="Continuous Integration" href="integration.html"/>
+      <item name="Building Guide" href="/involved/building.html"/>
+      <item name="Committer Environment"      href="committer-environment.html"/>
+      <item name="Release Guide" href="/involved/release.html"/>
+    </menu>
+
+
+  </body>
+
+
+</project>
